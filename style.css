@@ -33,7 +33,6 @@
             outline: 0px;
         }
         header .signup button:hover {
-            outline: 2px #03A9F4;
             cursor: pointer;
         }
         .updates {
