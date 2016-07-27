@@ -61,6 +61,9 @@
             border: solid 6px #EEEEEE;
         }
         @media screen and (max-width: 500px) {
+        .updates .close {
+            margin: 4px;
+        }
         .updates input {
             display: block;
             margin: 5px auto;
@@ -72,12 +75,6 @@
         .updates .submit {
             background: #0091EA;
             border: solid 6px #0091EA;
-        }
-        @media screen and (max-width: 500px) {
-        .updates input:nth-child(4) {
-            display: block;
-            margin: 20px auto;
-        }
         }
         .vis {
             display: block;
